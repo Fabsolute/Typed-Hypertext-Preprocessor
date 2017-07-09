@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "THP\\": "src"
+    }
+  },
+  "require": {
+    "fabs/linq": "dev-develop"
+  }
+}
